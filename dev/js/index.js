@@ -136,7 +136,7 @@ $(document).ready(function(){
                 link_html += '<a href="' + baseUrl + 'page' + j + '" class="page-link page-num">' + j + '</a>';
             }
         }
-
+        
         $('#page-link-container').html(link_html);
     }
     pagination();
@@ -207,7 +207,7 @@ $(document).ready(function(){
     }
 
     new Search();
-
+    
     /**
      * Night mode
      */
