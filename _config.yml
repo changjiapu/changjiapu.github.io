@@ -30,7 +30,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
@@ -50,8 +50,8 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: //blog.csdn.net/qq_41629498''  #微博
-  facebook: '//blog.csdn.net/qq_41629498'
-  github: '//github.com/changjiapu/'
+  facebook: '//blog.csdn.net/qq_41629498' 
+  github: '//github.com/changjiapu/' 
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
